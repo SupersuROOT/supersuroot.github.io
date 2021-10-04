@@ -44,7 +44,8 @@ Welcome!
    
 ## 5.联系方式  
    邮箱：SuperSU-ROOT@outlook.com  
-   博客：[https://iflytekx1pro.blogspot.com/](https://iflytekx1pro.blogspot.com/ "博客")
+   博客：[https://iflytekx1pro.blogspot.com/](https://iflytekx1pro.blogspot.com/ "博客")  
+   加入讨论：[Github_讨论](https://github.com/SupersuROOT/supersuroot.github.io/discussions "讨论")  
    
    
 ## 免责声明  
