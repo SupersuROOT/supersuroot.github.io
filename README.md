@@ -19,8 +19,8 @@ Welcome!
    修改镜像下载：[system_修改镜像-Github](https://github.com/SupersuROOT/supersuroot.github.io/releases)  
    提取分区镜像文件教程：[重磅干货！高通9008模式与数据提取](https://zhuanlan.zhihu.com/p/35422254)    
    （选择分区时一定要用右边的滑栏！鼠标滚动容易找漏！）  
-   补：由于X1 PRO支持gsi，所以可尝试使用gsi（通用系统镜像）进行刷机。
-   注：**9008模式仅可用于尚支持9008的X1 PRO机型**，若9008模式从上述方法进不去，可尝试拆机（见下图）  
+   补：由于X1 PRO支持gsi，所以可尝试使用gsi（通用系统镜像）进行刷机。  
+   注：**9008模式仅可用于尚支持9008的X1 PRO机型**，若9008模式从上述方法进不去，可尝试拆机并短接如下两点（见下图）  
    ![mahua](x1pro_photo.png)    
 ###### _X1 PRO拆机图（图片由友情人士提供）_
    
