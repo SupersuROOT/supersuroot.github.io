@@ -2,7 +2,7 @@ X1 PRO - 研究导航 - 小白向
 ====
 Welcome!  
 网站：[X1 PRO - 研究导航 - 小白向](https://supersuroot.github.io)  
-
+由于本人已毕业 此页面不再更新。
 
 ![mahua](iflytek.png)  
 
